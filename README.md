@@ -65,7 +65,3 @@ r)	DIVERTED:
 Diverted Flight Indicator (1 = Yes, 0 = No)
 s)	DISTANCE:
 Distance between airports in miles.
-
-
-
-![image](https://user-images.githubusercontent.com/63375587/112709184-4c286b80-8e74-11eb-9b94-dd983f263362.png)
